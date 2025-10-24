@@ -1,2 +1,2 @@
 # Contact-Management-App
-Developed a secure RESTful API that allows users to create, update, delete, and view their own contacts. Implemented user authentication and authorization using JWT and password encryption with bcrypt, ensuring data privacy. Used MongoDB for data storage and Express.js for efficient routing and middleware handling.
+A Contact Management REST API built with Node.js and Express.js. Features user authentication using JWT and secure password hashing with bcrypt. Users can create, update, delete, and fetch only their own contacts.
