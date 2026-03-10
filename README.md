@@ -7,7 +7,7 @@ How to run this?
 3) it will show you something like:
 <img width="1109" height="164" alt="image" src="https://github.com/user-attachments/assets/a44647dd-d1f2-4c38-8976-a1f653fcb36c" />
 
-Now you can test it using thuderclient(a VS code extension for testing) or postman.
+Now you can test it using thunderclient(a VS code extension for testing) or postman.
 * for creating users: POST http://localhost:5001/api/users/register
 * for login users: POST http://localhost:5001/api/users/login
 * for current logged in users: GET http://localhost:5001/api/users/current
